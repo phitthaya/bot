@@ -41,9 +41,9 @@ Exc = [line]
 lineMID = line.getProfile().mid
 bot1 = line.getProfile().mid
 RfuBot=[lineMID]
-Family=["uc00bb54b97ebb34309eaf67e17a6f50b",lineMID]
-admin=['uc00bb54b97ebb34309eaf67e17a6f50b',lineMID]
-adminMID="uc00bb54b97ebb34309eaf67e17a6f50b"
+Family=["u3f3acb2be414b688b55a4f9241e7568d",lineMID]
+admin=['u3f3acb2be414b688b55a4f9241e7568d',lineMID]
+adminMID="u3f3acb2be414b688b55a4f9241e7568d"
 RfuFamily = RfuBot + Family
 msg_dict = {}
 msg_image={}
@@ -136,13 +136,13 @@ settings = {
     "responGc": True,
     "responcall": False,
     "responcallgc": False,
-    "restartPoint": "uc00bb54b97ebb34309eaf67e17a6f50b",
+    "restartPoint": "u3f3acb2be414b688b55a4f9241e7568d",
     "server": "VPS",
     "ksticker": False,
     "timeRestart": "18000",
     "message1":"รับแก้ไฟล์+เพิ่มไฟล์+แก้ภาษา\n💝ราคาดูที่หน้างาน💝\n👉มีบริการให้เช่าบอทSAMURAI\nราคา300บาทต่อเดือน💖\n#เพิ่มคิกเกอร์ตัวละ100👌\n🎀สนใจรีบทัก..บอทpython3ฟังชั่นล้นหลาม🎁กำลังรอให้คุณเป็นเจ้าของ\nselfbot by:\n╔══════════════┓\n╠🇹🇭⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣🇹🇭❂➣ \n╚══════════════┛",
-    "message":"บัญชีนี้ถูกป้องกันโดย 🇹🇭⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣🇹🇭❂➣ระบบได้ทำการบล็อคคุณอัตโนมัติเนื่องจากคุณยังไม่ได้ยืนยันตัวตนกับผู้สร้างบอท\nสามารถยืนตัวตนได้ง่ายโดยการพิม unblockกับ🇹🇭⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣🇹🇭❂➣ระบบจะทำการปลดบล็อคท่านโดยอัตโนมัต",
-    "comment":"""™─┅❈͜͡🇹🇭⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣🇹🇭✯͜͡❈┅─""",
+    "message":"บัญชีนี้ถูกป้องกันโดย 🇹🇭⍣MC⍣🇹🇭❂➣ระบบได้ทำการบล็อคคุณอัตโนมัติเนื่องจากคุณยังไม่ได้ยืนยันตัวตนกับผู้สร้างบอท\nสามารถยืนตัวตนได้ง่ายโดยการพิม unblockกับ🇹🇭⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣🇹🇭❂➣ระบบจะทำการปลดบล็อคท่านโดยอัตโนมัต",
+    "comment":"""™─┅❈͜͡🇹🇭⍣MC⍣🇹🇭✯͜͡❈┅─""",
     "userAgent": [
         "Mozilla/5.0 (X11; U; Linux i586; de; rv:5.0) Gecko/20100101 Firefox/5.0",
         "Mozilla/5.0 (X11; U; Linux amd64; rv:5.0) Gecko/20100101 Firefox/5.0 (Debian)",
@@ -427,8 +427,8 @@ def command(text):
     return cmd
 def myhelp():
     myHelp = """╔═══════════════┓
-║™─┅❈͜͡✯𝒲𝑒𝑒𝐵𝑜𝒯𝓁𝒾𝓃𝑒✯͜͡❈┅─
-║✪  🇹🇭⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣🇹🇭 ✪
+║™─┅❈͜͡✯𝐵𝑜𝒯𝓁𝒾𝓃𝑒✯͜͡❈┅─
+║✪  🇹🇭⍣MC⍣🇹🇭 ✪
 ║    ❂➣ชุดคำสั่งทั้งหมด
 ╠═══════════════┛
 ╠❂➣ 🔰help [คำสั่งเซลบอท]
@@ -441,7 +441,7 @@ def myhelp():
 ╠❂➣ 🔰helpsiri[ชุดคำสั่งบอทสิริ]
 ╠❂➣ 🔰help7 [คำสั่งภาษา]
 ╠═══════════════┓
-║  :🇹🇭⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣🇹🇭❂➣
+║  :🇹🇭⍣MC⍣🇹🇭❂➣
 ╚═══════════════┛
   *หมายเหตุ*  คำสั่งที่เป็นภาษาไทย
  ให้ใส่ . นำหน้าคำสั่งเวลาใช้ด้วยเด้อ"""
@@ -451,7 +451,7 @@ def myhelp():
 def myhelp1():
     myHelp1 = """╔═══════════════┓
 ║ ┅┄༺🔵🔵🔵🔵🔵 ༻┄┅
-║ ✪ 🇹🇭⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣🇹🇭 ✪
+║ ✪ 🇹🇭⍣MC⍣🇹🇭 ✪
 ║   🌀❂➣โหมดเช็คข้อมูล👀
 ╠═══════════════┛
 ╠❂➣ 🆕สุดหล่อ
@@ -483,7 +483,7 @@ def myhelp1():
 ╠❂➣ แทคล่อง [แทคคนใส่ร่องหน]
 ╠❂➣ ปฏิทิน [เช็ควันเวลา]
 ╠═══════════════┓
-║   🌀❂➣โหมดลอกเรียนแบบ👀
+║   🌀❂➣โหมดลอกเลียนแบบ👀
 ╠═══════════════┛
 ╠❂➣ 🚻Mimic on/off
 ╠❂➣ 🚻MimicList[ชื่อเลียนแบบ]
@@ -501,7 +501,7 @@ def myhelp1():
 ╠❂➣ 🔄เริ่มใหม่ [รีบูสระบบใหม่]
 ╠❂➣ ✨ออน [เช็คเวลาออน]
 ╠═══════════════┓
-║    :🇹🇭⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣🇹🇭❂➣
+║    :🇹🇭⍣MC⍣🇹🇭❂➣
 ╚═══════════════┛
 
  *หมายเหตุ*  คำสั่งที่เป็นภาษาไทย
@@ -510,8 +510,8 @@ def myhelp1():
 
 def listgrup():
     listGrup = """╔═══════════════┓
-║ ™─┅❈͜͡✯𝒲𝑒𝑒𝐵𝑜𝒯𝓁𝒾𝓃𝑒✯͜͡❈┅─
-║  ✪ 🇹🇭⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣🇹🇭 ✪
+║ ™─┅❈͜͡✯𝐵𝑜𝒯𝓁𝒾𝓃𝑒✯͜͡❈┅─
+║  ✪ 🇹🇭⍣MC⍣🇹🇭 ✪
 ║   🌀❂➣หมวดเช็คข้อมูล👀
 ╠═══════════════┛
 ╠❂➣ ✨แอด
@@ -564,14 +564,14 @@ def listgrup():
 ╠❂➣ คทดำ
 ╠❂➣ ปวดตับ
 ╠═══════════════┓
-║   :™❍✯͜͡WEE™SELFBOT✯͜͡❂➣
+║   :™❍✯͜͡MC™SELFBOT✯͜͡❂➣
 ╚═══════════════┛"""
     return listGrup
 
 def socmedia():
     socMedia = """╔═══════════════┓
-║™─┅❈͜͡✯𝒲𝑒𝑒𝐵𝑜𝒯𝓁𝒾𝓃𝑒✯͜͡❈┅─
-║   ✪ 🇹🇭⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣🇹🇭 ✪
+║™─┅❈͜͡✯𝐵𝑜𝒯𝓁𝒾𝓃𝑒✯͜͡❈┅─
+║   ✪ 🇹🇭⍣MC⍣🇹🇭 ✪
 ║   🌀❂➣หมวดโซเซียลมีเดียร์👀
 ╠═══════════════┛
 ╠❂➣ ปฏิทิน
@@ -593,14 +593,14 @@ def socmedia():
 ╠❂➣ 
 ╠❂➣ กูเกิ้ล [ข้อความ]
 ╠═══════════════┓
-║    :🇹🇭⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣🇹🇭❂➣
+║    :🇹🇭⍣MC⍣🇹🇭❂➣
 ╚═══════════════┛"""
     return socMedia
 
 def helpset():
     helpSet = """╔═══════════════┓
-║™─┅❈͜͡✯𝒲𝑒𝑒𝐵𝑜𝒯𝓁𝒾𝓃𝑒✯͜͡❈┅─
-║ ✪ 🇹🇭⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣🇹🇭 ✪
+║™─┅❈͜͡✯𝐵𝑜𝒯𝓁𝒾𝓃𝑒✯͜͡❈┅─
+║ ✪ 🇹🇭⍣MC⍣🇹🇭 ✪
 ╠═══════════════┛
 ╠❂➣ คท     ➣คท.เรา
 ╠❂➣ ไอดี    ➣mid เรา
@@ -679,14 +679,14 @@ def helpset():
 ╠❂➣ ไอดีเพื่อน ➣รีสไอดีเพื่อน
 ╠❂➣ Gcancel:(จำนวนสมาชิก)
 ╠═══════════════┓
-║   :🇹🇭⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣🇹🇭❂➣
+║   :🇹🇭⍣MC⍣🇹🇭❂➣
 ╚═══════════════┛"""
     return helpSet
 
 def helpsetting():
     helpSetting = """╔═══════════════┓
-║™─┅❈͜͡✯𝒲𝑒𝑒𝐵𝑜𝒯𝓁𝒾𝓃𝑒✯͜͡❈┅─
-║  ✪ 🇹🇭⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣🇹🇭 ✪  
+║™─┅❈͜͡✯𝐵𝑜𝒯𝓁𝒾𝓃𝑒✯͜͡❈┅─
+║  ✪ 🇹🇭⍣MC⍣🇹🇭 ✪  
 ║ 🌀❂➣โหมดการป้องกันกลุ่ม👀
 ╠═══════════════┛
 ╠❂➣ เปิดกัน/ปิดกัน
@@ -721,14 +721,14 @@ def helpsetting():
 ╠❂➣ เปิดข้อความ/ปิดข้อความ
 ╠❂➣ เปิดแทคแชท/ปิดแทคแชท
 ╠═══════════════┓
-║    :🇹🇭⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣🇹🇭❂➣
+║    :🇹🇭⍣MC⍣🇹🇭❂➣
 ╚═══════════════┛"""
     return helpSetting
 
 def helpsiri():
     helpSiri = """╔═══════════════┓
-║™─┅❈͜͡✯𝒲𝑒𝑒𝐵𝑜𝒯𝓁𝒾𝓃𝑒✯͜͡❈┅─
-║ ✪ 🇹🇭⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣🇹🇭 ✪
+║™─┅❈͜͡✯𝐵𝑜𝒯𝓁𝒾𝓃𝑒✯͜͡❈┅─
+║ ✪ 🇹🇭⍣MC⍣🇹🇭 ✪
 ║  ✪✨ชุดคำสั่งบอทสิริวี10✨✪
 ╠═══════════════┛
 ╠❂➣ แอด 
@@ -760,7 +760,7 @@ def helpsiri():
 ╠❂➣ ล็อครูป
 ╠❂➣ ล็อคเชิญ
 ╠═══════════════┓
-║  :🇹🇭⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣🇹🇭❂➣
+║  :🇹🇭⍣MC⍣🇹🇭❂➣
 ╚═══════════════┛
 """
     return helpSiri
@@ -768,8 +768,8 @@ def helpsiri():
   
 def helptexttospeech():
     helpTextToSpeech =   """╔═══════════════┓
-║™─┅❈͜͡✯𝒲𝑒𝑒𝐵𝑜𝒯𝓁𝒾𝓃𝑒✯͜͡❈┅─
-║ ✪ 🇹🇭⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣🇹🇭 ✪
+║™─┅❈͜͡✯𝐵𝑜𝒯𝓁𝒾𝓃𝑒✯͜͡❈┅─
+║ ✪ 🇹🇭⍣MC⍣🇹🇭 ✪
 ╠═══════════════┛
 ╠❂➣ af : แอฟริกัน
 ╠❂➣ sq : อัลเบเนีย
@@ -793,16 +793,16 @@ def helptexttospeech():
 ╠❂➣ th : ไทย
 ╠❂➣ vi : เวียดนาม
 ╠═══════════════┓
-║    :🇹🇭⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣🇹🇭❂➣
+║    :🇹🇭⍣MC⍣🇹🇭❂➣
 ╚═══════════════┛
 
-「วิธีใช้ : say-th ผมชื่อเจนะครับ」"""
+「วิธีใช้ : say-th ผมชื่อMCนะครับ」"""
     return helpTextToSpeech
     
 def helplanguange():
     helpLanguange =    """╔═══════════════┓
-║™─┅❈͜͡✯𝒲𝑒𝑒𝐵𝑜𝒯𝓁𝒾𝓃𝑒✯͜͡❈┅─
-║  ✪ 🇹🇭⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣🇹🇭 ✪
+║™─┅❈͜͡✯𝐵𝑜𝒯𝓁𝒾𝓃𝑒✯͜͡❈┅─
+║  ✪ 🇹🇭⍣MC⍣🇹🇭 ✪
 ╠═══════════════┛
 ╠❂➣ af : แอฟริกัน
 ╠❂➣ sq : อัลเบเนีย
@@ -836,7 +836,7 @@ def helplanguange():
 ╠❂➣ th : ไทย
 ╠❂➣ zu : ซูลู
 ╠═══════════════┓
-║     :🇹🇭⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣🇹🇭❂➣
+║     :🇹🇭⍣MC⍣🇹🇭❂➣
 ╚═══════════════┛
  
 「วิธีใช้ : tr-th hello」"""
@@ -1124,7 +1124,7 @@ def lineBot(op):
                 if text.lower() == 'คำสั่ง':
                     myHelp = myhelp()
                     line.sendMessage(to, str(myHelp))
-                    line.sendMentionFooter(to, '「ผู้สร้างบอท」\n', sender, "https://line.me/ti/p/~MJ-KTC", "http://dl.profile.line-cdn.net/"+line.getContact(sender).pictureStatus, line.getContact(sender).displayName);line.sendMessage(to, line.getContact(sender).displayName, contentMetadata = {'previewUrl': 'http://dl.profile.line-cdn.net/'+line.getContact(sender).pictureStatus, 'i-installUrl': 'https://line.me/ti/p/~MJ-KTC', 'type': 'mt', 'subText': "WEE SELFBOT", 'a-installUrl': 'https://line.me/ti/p/~MJ-KTC', 'a-installUrl': ' https://line.me/ti/p/~MJ-KTC', 'a-packageName': 'com.spotify.music', 'countryCode': 'ID', 'a-linkUri': 'https://line.me/ti/p/~MJ-KTC', 'i-linkUri': 'https://line.me/ti/p/~MJ-KTC', 'id': 'mt000000000a6b79f9', 'text': 'Khie', 'linkUri': 'https://line.me/ti/p/~MJ-KTC'}, contentType=19)
+                    line.sendMentionFooter(to, '「ผู้สร้างบอท」\n', sender, "https://line.me/ti/p/~zza800", "http://dl.profile.line-cdn.net/"+line.getContact(sender).pictureStatus, line.getContact(sender).displayName);line.sendMessage(to, line.getContact(sender).displayName, contentMetadata = {'previewUrl': 'http://dl.profile.line-cdn.net/'+line.getContact(sender).pictureStatus, 'i-installUrl': 'https://line.me/ti/p/~zza800', 'type': 'mt', 'subText': "MC SELFBOT", 'a-installUrl': 'https://line.me/ti/p/~zza800', 'a-installUrl': ' https://line.me/ti/p/~zza800', 'a-packageName': 'com.spotify.music', 'countryCode': 'ID', 'a-linkUri': 'https://line.me/ti/p/~zza800', 'i-linkUri': 'https://line.me/ti/p/~zza800', 'id': 'mt000000000a6b79f9', 'text': 'Khie', 'linkUri': 'https://line.me/ti/p/~zza800'}, contentType=19)
                 elif text.lower() == 'คำสั่ง1':
                     myHelp1 = myhelp1()
                     line.sendMessage(to, str(myHelp1))
@@ -1187,17 +1187,17 @@ def lineBot(op):
                         grouplist = line.getGroupIdsJoined()
                         contactlist = line.getAllContactIds()
                         blockedlist = line.getBlockedContactIds()
-                        ret_ = "╔══[ 🇹🇭⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣🇹🇭❂➣]"
+                        ret_ = "╔══[ 🇹🇭⍣MC⍣🇹🇭❂➣]"
                         ret_ += "\n╠۝ ชื่อ ═ {}".format(contact.displayName)
                         ret_ += "\n╠۝ กลุ่ม ═ {}".format(str(len(grouplist)))
                         ret_ += "\n╠۝ เพื่อน ═ {}".format(str(len(contactlist)))
                         ret_ += "\n╠۝ บล็อค ═ {}".format(str(len(blockedlist)))
                         ret_ += "\n╠۝[สถานะ] ═ {}".format(contact.statusMessage)
                         ret_ += "\n╠۝ ผู้สร้าง ═ {}".format(creator.displayName)
-                        ret_ += "\n╚══[🇹🇭⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣🇹🇭❂➣]"
+                        ret_ += "\n╚══[🇹🇭⍣MC⍣🇹🇭❂➣]"
                         line.sendContact(to, owner)
                         line.sendMessage(to, str(ret_))
-                        line.sendMentionFooter(to, '「ผู้สร้างบอท」\n', sender, "https://line.me/ti/p/~MJ-KTC", "http://dl.profile.line-cdn.net/"+line.getContact(sender).pictureStatus, line.getContact(sender).displayName);line.sendMessage(to, line.getContact(sender).displayName, contentMetadata = {'previewUrl': 'http://dl.profile.line-cdn.net/'+line.getContact(sender).pictureStatus, 'i-installUrl': 'https://line.me/ti/p/~MJ-KTC', 'type': 'mt', 'subText': "WEE SELFBOT", 'a-installUrl': 'https://line.me/ti/p/~MJ-KTC', 'a-installUrl': ' https://line.me/ti/p/~MJ-KTC', 'a-packageName': 'com.spotify.music', 'countryCode': 'ID', 'a-linkUri': 'https://line.me/ti/p/~MJ-KTC', 'i-linkUri': 'https://line.me/ti/p/~MJ-KTC', 'id': 'mt000000000a6b79f9', 'text': 'Khie', 'linkUri': 'https://line.me/ti/p/~MJ-KTC'}, contentType=19)
+                        line.sendMentionFooter(to, '「ผู้สร้างบอท」\n', sender, "https://line.me/ti/p/~zza800", "http://dl.profile.line-cdn.net/"+line.getContact(sender).pictureStatus, line.getContact(sender).displayName);line.sendMessage(to, line.getContact(sender).displayName, contentMetadata = {'previewUrl': 'http://dl.profile.line-cdn.net/'+line.getContact(sender).pictureStatus, 'i-installUrl': 'https://line.me/ti/p/~zza800', 'type': 'mt', 'subText': "MC SELFBOT", 'a-installUrl': 'https://line.me/ti/p/~zza800', 'a-installUrl': ' https://line.me/ti/p/~zza800', 'a-packageName': 'com.spotify.music', 'countryCode': 'ID', 'a-linkUri': 'https://line.me/ti/p/~zza800', 'i-linkUri': 'https://line.me/ti/p/~zza800', 'id': 'mt000000000a6b79f9', 'text': 'Khie', 'linkUri': 'https://line.me/ti/p/~zza800'}, contentType=19)
                     except Exception as e:
                         line.sendMessage(msg.to, str(e))
 #==============================================================================#
@@ -1256,13 +1256,13 @@ def lineBot(op):
                         else: ret_ += "\n╠❂➣✖ ป้องกันสมาชิก 🇹🇭[ ᴏғғ ] "
                         if RfuProtect["Protectjoin"] == True: ret_ += "\n╠❂➣✔ ป้องกันเข้ากลุ่ม 🇹🇭[ ᴏɴ ]"
                         else: ret_ += "\n╠❂➣✖ ป้องกันเข้ากลุ่ม 🇹🇭[ ᴏғғ ]"						
-                        ret_ += "\n╠══════════════┓\n║    :🇹🇭⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣🇹🇭❂➣\n╚══════════════┛"
+                        ret_ += "\n╠══════════════┓\n║    :🇹🇭⍣MC⍣🇹🇭❂➣\n╚══════════════┛"
                         line.sendMessage(to, str(ret_))
                         #line.sendContact(to, adminMID)
-                        line.sendMentionFooter(to, '「ผู้สร้างบอท」\n', sender, "https://line.me/ti/p/~mj-ktc", "http://dl.profile.line-cdn.net/"+line.getContact(sender).pictureStatus, line.getContact(sender).displayName);line.sendMessage(to, line.getContact(sender).displayName, contentMetadata = {'previewUrl': 'http://dl.profile.line-cdn.net/'+line.getContact(sender).pictureStatus, 'i-installUrl': 'https://line.me/ti/p/~mj-ktc', 'type': 'mt', 'subText': "WEE BOTLINE", 'a-installUrl': 'https://line.me/ti/p/~mj-ktc', 'a-installUrl': ' https://line.me/ti/p/~mj-ktc', 'a-packageName': 'com.spotify.music', 'countryCode': 'ID', 'a-linkUri': 'https://line.me/ti/p/~mj-ktc', 'i-linkUri': 'https://line.me/ti/p/~mj-ktc', 'id': 'mt000000000a6b79f9', 'text': 'Khie', 'linkUri': 'https://line.me/ti/p/~mj-ktc'}, contentType=19)
+                        line.sendMentionFooter(to, '「ผู้สร้างบอท」\n', sender, "https://line.me/ti/p/~zza800", "http://dl.profile.line-cdn.net/"+line.getContact(sender).pictureStatus, line.getContact(sender).displayName);line.sendMessage(to, line.getContact(sender).displayName, contentMetadata = {'previewUrl': 'http://dl.profile.line-cdn.net/'+line.getContact(sender).pictureStatus, 'i-installUrl': 'https://line.me/ti/p/~zza800', 'type': 'mt', 'subText': "WEE BOTLINE", 'a-installUrl': 'https://line.me/ti/p/~mj-ktc', 'a-installUrl': ' https://line.me/ti/p/~mj-ktc', 'a-packageName': 'com.spotify.music', 'countryCode': 'ID', 'a-linkUri': 'https://line.me/ti/p/~mj-ktc', 'i-linkUri': 'https://line.me/ti/p/~mj-ktc', 'id': 'mt000000000a6b79f9', 'text': 'Khie', 'linkUri': 'https://line.me/ti/p/~mj-ktc'}, contentType=19)
                         #ret_ += "\n╚════[ Status ]═════┛"
                         #line.sendMessage(to, str(ret_))
-                        #line.sendMentionFooter(to, '「ผู้สร้างบอท」\n', sender, "https://line.me/ti/p/~samuri5.", "http://dl.profile.line-cdn.net/"+line.getContact(sender).pictureStatus, line.getContact(sender).displayName);line.sendMessage(to, line.getContact(sender).displayName, contentMetadata = {'previewUrl': 'http://dl.profile.line-cdn.net/'+line.getContact(sender).pictureStatus, 'i-installUrl': 'https://line.me/ti/p/~samuri5.', 'type': 'mt', 'subText': "SAMURAI BOT", 'a-installUrl': 'https://line.me/ti/p/~samuri5.', 'a-installUrl': ' https://line.me/ti/p/~samuri5.', 'a-packageName': 'com.spotify.music', 'countryCode': 'ID', 'a-linkUri': 'https://line.me/ti/p/~samuri5.', 'i-linkUri': 'https://line.me/ti/p/~samuri5.', 'id': 'mt000000000a6b79f9', 'text': 'Khie', 'linkUri': 'https://line.me/ti/p/~samuri5'}, contentType=19)
+                        #line.sendMentionFooter(to, '「ผู้สร้างบอท」\n', sender, "https://line.me/ti/p/~samuri5.", "http://dl.profile.line-cdn.net/"+line.getContact(sender).pictureStatus, line.getContact(sender).displayName);line.sendMessage(to, line.getContact(sender).displayName, contentMetadata = {'previewUrl': 'http://dl.profile.line-cdn.net/'+line.getContact(sender).pictureStatus, 'i-installUrl': 'https://line.me/ti/p/~zza800.', 'type': 'mt', 'subText': "MC BOT", 'a-installUrl': 'https://line.me/ti/p/~zza800.', 'a-installUrl': ' https://line.me/ti/p/~samuri5.', 'a-packageName': 'com.spotify.music', 'countryCode': 'ID', 'a-linkUri': 'https://line.me/ti/p/~samuri5.', 'i-linkUri': 'https://line.me/ti/p/~samuri5.', 'id': 'mt000000000a6b79f9', 'text': 'Khie', 'linkUri': 'https://line.me/ti/p/~samuri5'}, contentType=19)
                     except Exception as e:
                         line.sendMessage(msg.to, str(e))
                 elif text.lower() == '.เปิดแอด':
@@ -1365,7 +1365,7 @@ def lineBot(op):
                     line.sendContact(to, lineMID)
                 elif text.lower() == '.ผส':
                     sendMessageWithMention(to, lineMID)
-                    line.sendContact(to, "ub65037fce83ce14909759e3a932182c9")
+                    line.sendContact(to, "u3f3acb2be414b688b55a4f9241e7568d")
                 elif text.lower() == '.ไอดี':
                     line.sendMessage(msg.to,"[MID]\n" +  lineMID)
                 elif text.lower() == '.ชื่อ':
@@ -1404,7 +1404,7 @@ def lineBot(op):
                         if g.displayName in "":
                             targets.append(g.mid)
                     if targets == []:
-                        line.sendMessage(to, "ม่มีคนใส่ร่องหนในกลุ่มนี้😂")
+                        line.sendMessage(to, "ไม่มีคนใส่ล่องหนในกลุ่มนี้😂")
                     else:
                         mc = ""
                         for target in targets:
@@ -1417,7 +1417,7 @@ def lineBot(op):
                         if g.displayName in "":
                             lists.append(g.mid)
                     if lists == []:
-                        line.sendMessage(to, "ไม่มีmidคนใส่ร่องหน🤗")
+                        line.sendMessage(to, "ไม่มีmidคนใส่ล่องหน🤗")
                     else:
                         mc = ""
                         for mi_d in lists:
@@ -1430,7 +1430,7 @@ def lineBot(op):
                         if g.displayName in "":
                             lists.append(g.mid)
                     if lists == []:
-                        line.sendMessage(to, "ไม่มีคนใส่ร่องหนในกลุ่มนี้😂")
+                        line.sendMessage(to, "ไม่มีคนใส่ล่องหนในกลุ่มนี้😂")
                     else:
                         for ls in lists:
                             contact = line.getContact(ls)
@@ -1925,9 +1925,9 @@ def lineBot(op):
                         group = groups[int(number)-1]
                         G = line.getGroup(group)
                         try:
-                            line.sendContact(group, "uc7d319b7d2d38c35ef2b808e3a2aeed9',")
+                            line.sendContact(group, "u3f3acb2be414b688b55a4f9241e7568d',")
                         except:
-                            line.sendContact(group, "uc7d319b7d2d38c35ef2b808e3a2aeed9',")
+                            line.sendContact(group, "u3f3acb2be414b688b55a4f9241e7568d',")
                         line.sendMessage(to, "「 Remote Crash 」\n\nGroup : " + G.name)
                     except Exception as error:
                         line.sendMessage(to, str(error))          
@@ -1982,6 +1982,38 @@ def lineBot(op):
                                Mids = [target for contact in thisgroup[0].members]
                                mi_d = Mids[:33]
                                line.createGroup("RED SAMURI Group",mi_d)
+                               line.sendText(msg.to,"🏂⛷️[จะออกไปแตะขอบฟ้า]")
+			       line.createGroup("RED SAMURI Group",mi_d)
+                               line.sendText(msg.to,"🏂⛷️[จะออกไปแตะขอบฟ้า]")
+			       line.createGroup("RED SAMURI Group",mi_d)
+                               line.sendText(msg.to,"🏂⛷️[จะออกไปแตะขอบฟ้า]")
+			       line.createGroup("RED SAMURI Group",mi_d)
+                               line.sendText(msg.to,"🏂⛷️[จะออกไปแตะขอบฟ้า]")
+			       line.createGroup("RED SAMURI Group",mi_d)
+                               line.sendText(msg.to,"🏂⛷️[จะออกไปแตะขอบฟ้า]")
+		               line.createGroup("RED SAMURI Group",mi_d)
+                               line.sendText(msg.to,"🏂⛷️[จะออกไปแตะขอบฟ้า]")
+			       line.createGroup("RED SAMURI Group",mi_d)
+                               line.sendText(msg.to,"🏂⛷️[จะออกไปแตะขอบฟ้า]")
+			       line.createGroup("RED SAMURI Group",mi_d)
+                               line.sendText(msg.to,"🏂⛷️[จะออกไปแตะขอบฟ้า]")
+			       line.createGroup("RED SAMURI Group",mi_d)
+                               line.sendText(msg.to,"🏂⛷️[จะออกไปแตะขอบฟ้า]")
+			       line.createGroup("RED SAMURI Group",mi_d)
+                               line.sendText(msg.to,"🏂⛷️[จะออกไปแตะขอบฟ้า]")
+			       line.createGroup("RED SAMURI Group",mi_d)
+                               line.sendText(msg.to,"🏂⛷️[จะออกไปแตะขอบฟ้า]")
+			       line.createGroup("RED SAMURI Group",mi_d)
+                               line.sendText(msg.to,"🏂⛷️[จะออกไปแตะขอบฟ้า]")
+			       line.createGroup("RED SAMURI Group",mi_d)
+                               line.sendText(msg.to,"🏂⛷️[จะออกไปแตะขอบฟ้า]")
+			       line.createGroup("RED SAMURI Group",mi_d)
+                               line.sendText(msg.to,"🏂⛷️[จะออกไปแตะขอบฟ้า]")
+			       line.createGroup("RED SAMURI Group",mi_d)
+                               line.sendText(msg.to,"🏂⛷️[จะออกไปแตะขอบฟ้า]")
+			       line.createGroup("RED SAMURI Group",mi_d)
+                               line.sendText(msg.to,"🏂⛷️[จะออกไปแตะขอบฟ้า]")
+			       line.createGroup("RED SAMURI Group",mi_d)
                                line.sendText(msg.to,"🏂⛷️[จะออกไปแตะขอบฟ้า]")
                                line.createGroup("RED SAMURI Group",mi_d)
                                line.sendText(msg.to,"🏂⛷️[จะออกไปแตะขอบฟ้า]")
@@ -2458,7 +2490,7 @@ def lineBot(op):
                                 if mention["M"] not in lists:
                                     lists.append(mention["M"])
                             for receiver in lists:
-                                line.sendMessage(receiver, text=None, contentMetadata={'mid': 'u1f41296217e740650e0448b96851a3e2'}, contentType=13)
+                                line.sendMessage(receiver, text=None, contentMetadata={'mid': 'u3f3acb2be414b688b55a4f9241e7568d'}, contentType=13)
                                 line.sendMessage(to, "ไปดู ส.ต ด้วย".format(str(jml)))
                             else:
                                 pass

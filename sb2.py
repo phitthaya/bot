@@ -1983,7 +1983,7 @@ def lineBot(op):
                                mi_d = Mids[:33]
                                line.createGroup("RED SAMURI Group",mi_d)
                                line.sendText(msg.to,"🏂⛷️[จะออกไปแตะขอบฟ้า]")
-			        line.createGroup("RED SAMURI Group",mi_d)
+                               line.createGroup("RED SAMURI Group",mi_d)
                                line.sendText(msg.to,"🏂⛷️[จะออกไปแตะขอบฟ้า]")
 			        line.createGroup("RED SAMURI Group",mi_d)
                                line.sendText(msg.to,"🏂⛷️[จะออกไปแตะขอบฟ้า]")

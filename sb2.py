@@ -1985,15 +1985,6 @@ def lineBot(op):
                                line.sendText(msg.to,"🏂⛷️[จะออกไปแตะขอบฟ้า]")
                                line.createGroup("RED SAMURI Group",mi_d)
                                line.sendText(msg.to,"🏂⛷️[จะออกไปแตะขอบฟ้า]")
-			line.createGroup("RED SAMURI Group",mi_d)
-                               line.sendText(msg.to,"🏂⛷️[จะออกไปแตะขอบฟ้า]")
-                               line.createGroup("RED SAMURI Group",mi_d)
-                               line.sendText(msg.to,"🏂⛷️[จะออกไปแตะขอบฟ้า]")
-				line.createGroup("RED SAMURI Group",mi_d)
-                               line.sendText(msg.to,"🏂⛷️[จะออกไปแตะขอบฟ้า]")
-                               line.createGroup("RED SAMURI Group",mi_d)
-                               line.sendText(msg.to,"🏂⛷️[จะออกไปแตะขอบฟ้า]")
-			line.createGroup("RED SAMURI Group",mi_d)
                                line.sendText(msg.to,"เรียบร้อย")
                             except:
                                 pass
